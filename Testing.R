@@ -7,3 +7,5 @@ print("Just checking to see if I understand this")
 print("Let me make sure that I am platinum")
 
 print("Why is this not working")
+
+prin("let me see why I don't have to commit")
