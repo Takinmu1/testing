@@ -10,4 +10,4 @@ print("Why is this not working")
 
 prin("let me see why I don't have to commit")
 
-this does not really make sense.  Where are the commit notes at?
+print("this does not really make sense.  Where are the commit notes at?")
